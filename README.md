@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Akeldamaa
 - 👀 I’m interested in Web development and 3D Printing
-- 🌱 I’m currently learning ... Python & Javascript
+- 🌱 I’m currently learning ... TensorFlow & Java
 - 💞️ I’m looking to collaborate on ...Anything I can add value to!
 - 📫 How to reach me ... Discord:Jonnyboi#0841
 
