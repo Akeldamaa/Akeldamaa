@@ -2,7 +2,7 @@
   <img src="https://your-image-url.com/your-image.png" alt="Akeldamaa Banner">
 </p>
 
-<h1 align="center">👋 Hi there, I'm Akeldamaa!</h1>
+<h1 align="center">👋 Hi there, I'm Jonathan!</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Machine%20Learning-Enthusiast-orange" alt="Machine Learning Enthusiast">
@@ -10,7 +10,7 @@
 
 <p align="center">
   <b>👀 About Me</b><br>
-  I'm passionate about machine learning and its endless possibilities. Currently exploring the world of TensorFlow and mastering Java for AI development.
+  I'm passionate about machine learning and its endless possibilities. Currently exploring the world of TensorFlow and mastering Python for AI development.
   <br><br>
   <b>💡 Looking to Collaborate</b><br>
   I'm open to collaborating on exciting projects where I can contribute my skills and learn from others.
