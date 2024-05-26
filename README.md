@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://your-image-url.com/your-image.png" alt="Akeldamaa Banner">
-</p>
 
 <h1 align="center">👋 Hi there, I'm Jonathan!</h1>
 
