@@ -13,7 +13,8 @@
   I'm open to collaborating on exciting projects where I can contribute my skills and learn from others.
   <br><br>
   <b>📫 Reach Me</b><br>
-  Let's connect on Discord: Jon-Jon!#6166
+  Let's connect: Jonathanthomas5623@gmail.com
+
 </p>
 
 <p align="center">
